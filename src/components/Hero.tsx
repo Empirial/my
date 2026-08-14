@@ -3,21 +3,21 @@ export default function Hero() {
     <section className="bg-background">
       <div className="mx-auto flex max-w-5xl flex-col items-center px-4 py-20 text-center sm:py-24 lg:py-28">
         <h1 className="max-w-3xl text-4xl font-bold tracking-tight text-foreground sm:text-5xl lg:text-6xl">
-          Elevate Your Brand with Uncompromising Design
+          Crafting Digital Excellence, One Pixel at a Time
         </h1>
         <p className="mt-6 max-w-2xl text-lg text-muted-foreground sm:text-xl">
-          We craft premium digital experiences that blend artistry with strategy, building trust and delivering results that set you apart.
+          Where refined aesthetics meet strategic precision — we design immersive brand experiences that inspire confidence, elevate perception, and drive lasting growth.
         </p>
         <img
           src="https://placehold.co/960x640/e2e8f0/475569?text=hero"
-          alt="A high-end studio workspace with a designer's desk, featuring a sleek laptop displaying a sophisticated website, elegant furniture, and warm ambient lighting."
+          alt="A premium design studio interior with a sleek workstation, minimalist decor, and soft natural light highlighting a modern website on screen."
           className="mt-10 aspect-video w-full rounded-lg border border-border object-cover"
         />
         <a
           href="/contact"
           className="mt-8 inline-flex items-center justify-center rounded-md bg-primary px-8 py-3 text-base font-semibold text-primary-foreground transition-colors hover:opacity-90"
         >
-          Begin Your Transformation
+          Start Your Project
         </a>
       </div>
     </section>
